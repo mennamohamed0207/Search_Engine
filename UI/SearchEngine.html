@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="SearchEngine.css">
+    <title>Search Engine Interface</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" />
+</head>
+<body>
+    <div class="searchbar">
+    <div class="nameandsearch">
+        <div id="name">GOWELL</div>
+        <div class="search-container">
+            <div class="search" id="search-autocomplete">
+                <div class="icon"></div>
+            <form action="SearchEngineRequest" method="Get" id="search-form">
+                <div class="input">
+                    <input type="search" placeholder="Search" id="letssearch" name="Query" >
+                </div>
+            </form>
+                <span class="clear" onclick="document.getElementById('letssearch').value = '' ,
+                 document.getElementById('sentences-list').innerHTML=''"></span>
+                </div>
+        <!-- <button type="button" id="voice-input-btn"><i class="fas fa-microphone"></i></button> -->
+            </div>
+        </div>
+        <ul id="sentences-list"></ul>
+    </div>
+
+    <script src="SearchEngine.js"></script>
+</body>
+</html>
