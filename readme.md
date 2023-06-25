@@ -22,6 +22,12 @@
 5. Wordnet dictionary
 6. edu.mit.jwl for the meaning of words
 7. jsoup
+## ScreenShots : <a name = "screen-shots"></a>
+
+
+![image](https://github.com/Menna-Ahmed7/Search_Engine/assets/90017398/cda79352-7c84-4a5f-a654-33d4b47b23ce)
+![image](https://github.com/Menna-Ahmed7/Search_Engine/assets/90017398/9f7b1ef9-f7be-4cb3-9d1a-b6f7ea77e1d3)
+![image](https://github.com/Menna-Ahmed7/Search_Engine/assets/90017398/b2e68a1a-b6b5-4615-aeab-dc31d257eef6)
 
 
 
