@@ -25,10 +25,9 @@
 ## ScreenShots : <a name = "screen-shots"></a>
 
 
-![image](https://github.com/Menna-Ahmed7/Search_Engine/assets/90017398/cda79352-7c84-4a5f-a654-33d4b47b23ce)
-![image](https://github.com/Menna-Ahmed7/Search_Engine/assets/90017398/9f7b1ef9-f7be-4cb3-9d1a-b6f7ea77e1d3)
-![image](https://github.com/Menna-Ahmed7/Search_Engine/assets/90017398/b2e68a1a-b6b5-4615-aeab-dc31d257eef6)
-
+![image](https://github.com/mennamohamed0207/Search_Engine/assets/90017398/bb81fc26-cb18-4355-9b31-4a69b62fc36e)
+![image](https://github.com/mennamohamed0207/Search_Engine/assets/90017398/3dcaedf0-5b66-4f6c-ac07-c295f129f0fe)
+![image](https://github.com/mennamohamed0207/Search_Engine/assets/90017398/68125fce-3a5e-498e-9320-de640fe5e5c4)
 
 
 ## Contributors <a name = "Contributors"></a>
